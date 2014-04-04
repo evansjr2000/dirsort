@@ -1,0 +1,98 @@
+\I\\{argc}, \[7], 14.
+\I\\{argv}, \[7], 14.
+\I\\{arrin}, \[20].
+\I\\{atoi}, 14.
+\I\|{c}, \[15].
+\I\\{closedir}, 10.
+\I\\{d\_name}, 10.
+\I\.{DEBUG}, 17, 19.
+\I\.{DIR}, 10.
+\I\\{dirent}, 10.
+\I\\{dirp}, \[10].
+\I\\{do\_uid}, 8, 12, 14, \[15].
+\I\\{dopath}, 6, 9, \[10].
+\I\\{dp}, 10.
+\I\.{EOF}, 14.
+\I\\{err\_dump}, 11.
+\I\\{err\_quit}, 14.
+\I\\{err\_ret}, 10, 11.
+\I\\{errflg}, 14, \[15].
+\I\\{exit}, 7, 14.
+\I\.{FALSE}, \[15].
+\I\\{filenames}, \[5], 12, 17, 19.
+\I\\{filesize}, \[5], 12, 17, 19.
+\I\\{fprintf}, 14, 19.
+\I\.{FTW\_D}, \[9], 10, 11.
+\I\.{FTW\_DNR}, \[9], 10, 11.
+\I\.{FTW\_F}, \[9], 10, 11.
+\I\.{FTW\_NS}, \[9], 10, 11.
+\I\\{fullpath}, \[9], 10.
+\I\\{func}, 9, 10.
+\I\\{getopt}, 14.
+\I\\{getpwnam}, 14.
+\I\|{i}, \[20].
+\I\\{indexx}, 17, \[20].
+\I\\{indices}, \[5], 17, 19.
+\I\\{indx}, \[20].
+\I\\{indxt}, \[20].
+\I\&{int}, \[5].
+\I\\{ir}, \[20].
+\I\|{j}, \[18], \[20].
+\I\|{l}, \[20].
+\I\\{lstat}, 10.
+\I\\{main}, \[7].
+\I\\{malloc}, 12.
+\I\.{MAXSYSFILES}, \[5].
+\I\\{myftw}, 6, 7, \[9].
+\I\\{myfunc}, 6, 7, \[11].
+\I\\{Myfunc}, 5, \[6], 9, 10.
+\I\|{n}, \[20].
+\I\\{nblk}, \[6], 8, 11.
+\I\\{nchr}, \[6], 8, 11.
+\I\\{ndir}, \[6], 8, 11.
+\I\\{nfifo}, \[6], 8, 11.
+\I\\{nreg}, \[6], 8, 11.
+\I\\{nslink}, \[6], 8, 11.
+\I\\{nsock}, \[6], 8, 11.
+\I\\{ntot}, \[6], 8.
+\I\\{opendir}, 10.
+\I\\{optarg}, 14, \[15].
+\I\\{optind}, \[7], 14.
+\I\\{passwd}, 15.
+\I\\{path\_alloc}, 9.
+\I\.{PATH\_MAX}, 9.
+\I\\{pathname}, \[9], \[11], 12.
+\I\\{printf}, 8, 17, 19.
+\I\\{ptr}, \[10].
+\I\\{pw\_name}, 8.
+\I\\{pw\_uid}, 14.
+\I\\{pwd}, 8, 14, \[15].
+\I\|{q}, \[20].
+\I\\{readdir}, 10.
+\I\\{ret}, \[7], \[10].
+\I\.{S\_IFBLK}, 11.
+\I\.{S\_IFCHR}, 11.
+\I\.{S\_IFDIR}, 11.
+\I\.{S\_IFIFO}, 11.
+\I\.{S\_IFLNK}, 11.
+\I\.{S\_IFMT}, 11.
+\I\.{S\_IFREG}, 11.
+\I\.{S\_IFSOCK}, 11.
+\I\.{S\_ISDIR}, 10.
+\I\\{st\_mode}, 10, 11.
+\I\\{st\_size}, 12.
+\I\\{st\_uid}, 12.
+\I\\{stat}, 5, 10, 11.
+\I\\{statbuf}, \[10].
+\I\\{statptr}, \[11], 12.
+\I\\{stderr}, 14.
+\I\\{stdout}, 19.
+\I\\{strcmp}, 10.
+\I\\{strcpy}, 9, 10, 12.
+\I\\{strlen}, 10, 12.
+\I\.{TRUE}, 14, \[15].
+\I\\{type}, \[11].
+\I\\{uid}, 12, 14, 15.
+\I\\{uid\_t}, 15.
+\I\\{ureg}, 8, 12, \[13], 17, 19.
+\I\\{yrcnt}, 14, \[15], 19.

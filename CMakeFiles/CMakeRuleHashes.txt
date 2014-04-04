@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+8381b6a07c08996171d7e2d61409f318 CMakeFiles/TDocument
+04bba0224fa4273aeb326d0e11b4e83e dirsort.c

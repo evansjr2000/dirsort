@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/evansjr/src/ctools/dirsort/dirsort.c
+sys/types.h
+-
+sys/stat.h
+-
+dirent.h
+-
+limits.h
+-
+ourhdr.h
+/Users/evansjr/src/ctools/dirsort/ourhdr.h
+pwd.h
+-
+
+/Users/evansjr/src/ctools/dirsort/ourhdr.h
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+

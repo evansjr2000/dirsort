@@ -1,0 +1,2 @@
+/Users/evansjr/src/ctools/dirsort/CMakeFiles/TDocument.dir
+/Users/evansjr/src/ctools/dirsort/CMakeFiles/dirsort.dir
