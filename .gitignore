@@ -1,4 +1,7 @@
 *.o
 *.*~
 *.c
-*.tex
+dirsort.tex
+dirsort.idx
+dirsort.log
+
